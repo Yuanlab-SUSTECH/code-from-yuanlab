@@ -1,1 +1,1 @@
-this folder record code from yuanlab.
+this folder records code from yuanlab.
